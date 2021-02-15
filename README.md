@@ -1,1 +1,4 @@
-# analisador-lexico-python
+# Analisador Léxico em python
+
+## Imagem do autômato
+![](Autômato.jpg)
